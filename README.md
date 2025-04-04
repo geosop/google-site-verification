@@ -11,4 +11,3 @@ flowchart LR
     
     %% Draw the retrocausal feedback arrow (dashed for emphasis)
     F ---|Retrocausal Feedback<br/>(Interference Term I(F) subtracts from ϵ₀)<br/>Modulates neural state| C
-
